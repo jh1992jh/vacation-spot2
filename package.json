@@ -2,7 +2,7 @@
   "name": "vacation-spot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jh1992jh.github.io/Vacationspot/",
+  "homepage": "https://jh1992jh.github.io/vacation-spot2/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
