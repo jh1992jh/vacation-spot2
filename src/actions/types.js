@@ -1,0 +1,2 @@
+export const ADD_VACATION = 'ADD_VACATION';
+export const CLEAR_VACATION = 'CLEAR_VACATION';
